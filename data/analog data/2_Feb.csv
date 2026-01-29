@@ -1,0 +1,24 @@
+category,subcategory,item,io,amount
+Transport,Public Transport,Subway single trip,O,3.00
+Transport,Public Transport,Bus ride,O,2.00
+Transport,Public Transport,Subway transfer,O,4.00
+Transport,Ride Hailing,Airport ride,O,86.00
+Transport,Ride Hailing,Weekend ride,O,34.50
+Lifestyle,Fitness,Gym monthly membership,O,299.00
+Lifestyle,Fitness,Protein powder,O,189.00
+Lifestyle,Fitness,Yoga class,O,120.00
+Lifestyle,Housing,Rent,O,2600.00
+Lifestyle,Housing,Water bill,O,45.30
+Lifestyle,Housing,Electricity bill,O,138.60
+Lifestyle,Housing,Internet bill,O,99.00
+Lifestyle,Personal Care,Haircut,O,60.00
+Lifestyle,Personal Care,Skincare products,O,230.00
+Lifestyle,Personal Care,Toothpaste,O,18.50
+Entertainment,Movies,Cinema ticket,O,45.00
+Entertainment,Movies,Popcorn combo,O,32.00
+Entertainment,Social,Dinner with friends,O,180.00
+Income,Salary,Monthly salary,I,6800.00
+Income,Side Hustle,Online tutoring,I,800.00
+Income,Investment,Dividend income,I,260.00
+Income,Refund,Transport reimbursement,I,120.00
+Income,Gift,Family support,I,500.00

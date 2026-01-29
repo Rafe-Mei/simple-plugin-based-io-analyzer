@@ -1,0 +1,26 @@
+category,subcategory,item,io,amount
+Food,Meals,Beef pasta,O,19.00
+Food,Meals,Chicken rice,O,22.50
+Food,Meals,Bibimbap,O,24.00
+Food,Breakfast,Soy milk and fried dough,O,6.50
+Food,Breakfast,Egg pancake,O,7.00
+Food,Breakfast,Whole wheat bread,O,5.80
+Food,Drinks,Iced Americano,O,12.00
+Food,Drinks,Latte,O,16.00
+Food,Drinks,Milk tea (medium),O,14.00
+Transport,Public Transport,Subway single trip,O,3.00
+Transport,Public Transport,Bus ride,O,2.00
+Transport,Public Transport,Monthly subway pass,O,180.00
+Transport,Ride Hailing,Commute ride,O,28.57
+Transport,Ride Hailing,Night ride,O,45.08
+Shopping,Clothing,T-shirt,O,39.00
+Shopping,Clothing,Sneakers,O,420.00
+Shopping,Daily Goods,Laundry detergent,O,28.90
+Shopping,Daily Goods,Toilet paper,O,32.00
+Entertainment,Streaming,Music subscription,O,15.00
+Entertainment,Streaming,Video platform,O,25.00
+Entertainment,Games,Game purchase,O,98.00
+Income,Salary,Monthly salary,I,6800.00
+Income,Bonus,Performance bonus,I,500.00
+Income,Refund,Shopping refund,I,68.00
+Income,Side Hustle,Freelance design,I,1200.00

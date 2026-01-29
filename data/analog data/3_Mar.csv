@@ -1,0 +1,26 @@
+category,subcategory,item,io,amount
+Food,Meals,Steak,O,88.00
+Food,Meals,Ramen,O,32.00
+Food,Snacks,Chocolate,O,15.80
+Food,Snacks,Potato chips,O,9.90
+Food,Drinks,Bottled water,O,3.00
+Food,Drinks,Fresh juice,O,18.00
+Transport,Public Transport,Bus ride,O,2.00
+Transport,Public Transport,Subway single trip,O,3.00
+Transport,Ride Hailing,Evening commute,O,29.80
+Shopping,Electronics,Wireless mouse,O,129.00
+Shopping,Electronics,USB-C cable,O,35.00
+Shopping,Electronics,Keyboard,O,399.00
+Shopping,Books,Programming book,O,88.00
+Shopping,Books,Notebook,O,12.00
+Entertainment,Games,Game DLC,O,68.00
+Entertainment,Music,Concert ticket,O,480.00
+Entertainment,Music,Merchandise,O,120.00
+Finance,Fees,Bank service fee,O,10.00
+Finance,Fees,Investment platform fee,O,25.00
+Income,Salary,Monthly salary,I,7000.00
+Income,Side Hustle,Technical consulting,I,1500.00
+Income,Investment,Stock profit,I,860.00
+Income,Investment,Fund redemption,I,1200.00
+Income,Refund,Product return,I,99.00
+Income,Other,Interest income,I,45.00

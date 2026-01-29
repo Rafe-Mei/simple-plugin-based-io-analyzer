@@ -1,0 +1,10 @@
+[Main Menu Commands]
+\\help: Show this help text.
+\\q: Quit the program.
+\\info: Show project info.
+
+\\o: Open a project.
+\\l: Load a plugin.
+\\unit: Check units list and content.
+
+\\a: Enter the analysis menu. 
