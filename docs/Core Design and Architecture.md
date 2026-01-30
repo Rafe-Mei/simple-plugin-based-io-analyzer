@@ -88,8 +88,6 @@ All actual analysis logic is fully delegated to plugins.
 As described above, analysis strategies and execution logic are determined by analysis plugins.  
 Plugins are Python (`.py`) files located in the `src/plugins` directory.
 
----
-
 ### 5.2 Plugin File Naming
 
 In the plugins directory, you may see filenames such as:
